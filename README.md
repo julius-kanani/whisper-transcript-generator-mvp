@@ -10,7 +10,7 @@ This is an MVP (Minimum Viable Product) for generating transcripts from audio or
 - **GPU-accelerated performance:** Optimized to run with the T4 GPU for faster transcription.
 
 ## How to Use:
-1. Open this notebook in [Google Colab](https://colab.research.google.com/github/<your-github-username>/<your-repo-name>/blob/main/whisper_transcript_generator.ipynb).
+1. Open this notebook in <a href="https://colab.research.google.com/github/<your-github-username>/<your-repo-name>/blob/main/whisper_transcript_generator.ipynb" target="_blank">Google Colab</a>.
 2. Select **Runtime > Change runtime type** and set the hardware accelerator to **GPU** (T4).
 3. Install the required libraries (see the notebook for installation commands).
 4. Upload an audio file or provide a YouTube URL for the video/audio you wish to transcribe.
